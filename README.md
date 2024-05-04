@@ -9,7 +9,7 @@ The best metrics were obtained for pretrained ResNet-152 model:
 - *accuracy* 0.655
 - *f1 score* 0.651
 
-The model can be used in Telegram bot [@irdpredict_bot](https://t.me/irdpredict_bot).
+The model can be used with [Telegram bot API](https://github.com/glitchheadgit/tgbot_ird_prediction).
 
 ## Contributors
 Model training
