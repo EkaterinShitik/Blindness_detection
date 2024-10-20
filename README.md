@@ -5,9 +5,9 @@ The data was obtained from [Kaggle](https://www.kaggle.com/competitions/aptos201
 
 Some of the models can be found [here](https://drive.google.com/drive/folders/1TFusD9x4mBU0HftTc6vu2qAixpNP9B3v?usp=sharing)
 
-The best metrics were obtained for pretrained ResNet-152 model:
-- *accuracy* 0.655
-- *f1 score* 0.651
+The best metrics were obtained for pretrained ResNet-50 model:
+- *accuracy* 0.844
+- *f1 score* 0.668
 
 The model can be used with our [Telegram bot](https://github.com/glitchheadgit/tgbot_ird_prediction).
 
